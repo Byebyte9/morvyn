@@ -1,0 +1,10 @@
+{
+	"mostrarComandosChamados": true,
+	"mostrarTodosComandos": true,
+	"mostrarMensagens": true,
+	"mostrarMessage_msg": true,
+	"grupoMetadados": true,
+	"autoReconectar": false,
+	
+	"strikes": 5
+}
